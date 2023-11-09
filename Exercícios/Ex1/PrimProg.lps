@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="PrimProg.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="20"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uprimprog.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="frmPrimProg"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="uPrimProg"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="19"/>
+        <CursorPos X="38" Y="43"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="25">
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="34" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="36" Column="3"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="41" Column="3" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="28" Column="56" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="25" Column="92" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="42" Column="3" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="22" Column="58" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="40" Column="5" TopLine="13"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="47" TopLine="15"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="42" TopLine="12"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="39" Column="13" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="34" Column="51" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="35" Column="51" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="34" Column="51" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="36" Column="36" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="37" Column="36" TopLine="10"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="39" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="38" Column="38" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="17" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="19" Column="50" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="38" Column="3" TopLine="7"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="34" Column="53" TopLine="14"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="49" Column="71" TopLine="19"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="40" Column="33" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="41" TopLine="18"/>
+      </Position>
+      <Position>
+        <Filename Value="uprimprog.pas"/>
+        <Caret Line="43" Column="30" TopLine="18"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
