@@ -1,0 +1,37 @@
+object Form1: TForm1
+  Left = 461
+  Height = 409
+  Top = 127
+  Width = 291
+  Caption = 'Form1'
+  ClientHeight = 409
+  ClientWidth = 291
+  LCLVersion = '2.2.6.0'
+  object ContagemFor: TButton
+    Left = 85
+    Height = 62
+    Top = 55
+    Width = 124
+    Caption = 'ContagemFor'
+    OnClick = ContagemForClick
+    TabOrder = 0
+  end
+  object ContagemWhile: TButton
+    Left = 85
+    Height = 62
+    Top = 152
+    Width = 124
+    Caption = 'ContagemWhile'
+    OnClick = ContagemWhileClick
+    TabOrder = 1
+  end
+  object ContagemRepeat: TButton
+    Left = 85
+    Height = 62
+    Top = 248
+    Width = 124
+    Caption = 'ContagemRepeat'
+    OnClick = ContagemRepeatClick
+    TabOrder = 2
+  end
+end
